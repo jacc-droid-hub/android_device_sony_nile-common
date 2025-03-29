@@ -1,0 +1,10 @@
+# Remove multi-users feature
+fw.max_users=1
+
+# Hide Users from Settings
+fw.show_multiuserui=0
+
+# LowRam
+android.hardware.ram.low=true
+ro.config.ksm=true
+ro.config.zram=false
